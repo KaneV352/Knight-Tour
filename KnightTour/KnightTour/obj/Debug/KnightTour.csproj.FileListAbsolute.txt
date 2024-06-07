@@ -1,0 +1,7 @@
+C:\Users\Kane\Projects\KnightTour\KnightTour\bin\Debug\KnightTour.exe.config
+C:\Users\Kane\Projects\KnightTour\KnightTour\bin\Debug\KnightTour.exe
+C:\Users\Kane\Projects\KnightTour\KnightTour\bin\Debug\KnightTour.pdb
+C:\Users\Kane\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.csproj.AssemblyReference.cache
+C:\Users\Kane\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.csproj.CoreCompileInputs.cache
+C:\Users\Kane\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.exe
+C:\Users\Kane\Projects\KnightTour\KnightTour\obj\Debug\KnightTour.pdb
